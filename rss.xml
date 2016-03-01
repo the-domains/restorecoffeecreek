@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[restorecoffeecreek]]></title>
-        <description><![CDATA[restorecoffeecreek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[restore coffee creek]]></title>
+        <description><![CDATA[restore coffee creek]]></description>
+        <link>https://thegrid.ai/restorecoffeecreek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:27:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 01:16:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/restorecoffeecreek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8074ce33-4abe-4b75-a8b2-6e5c340ad6e6.tif">]]></description>
-            <link>undefined3108076f-79d1-4209-8b46-c7802334b712/index.html</link>
+            <link>https://thegrid.ai/restorecoffeecreek/3108076f-79d1-4209-8b46-c7802334b712/index.html</link>
             <guid isPermaLink="false">3108076f-79d1-4209-8b46-c7802334b712</guid>
-            <pubDate>Mon, 22 Feb 2016 21:27:01 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 01:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
